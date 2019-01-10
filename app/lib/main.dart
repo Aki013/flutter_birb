@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         title: 'Birb',
         theme: ThemeData(
           brightness: Brightness.light,
-          primaryColor: Colors.orange,
+          primaryColor: Colors.blue,
           scaffoldBackgroundColor: Colors.white,
         ),
         home: const MyHomePage(title: 'Birb'),
